@@ -1,16 +1,19 @@
 Welcome to Halatech AI Documentation
 ===================================
 
-**Halatech AI** (/lu'make/) A modern approach to building intelligent chat-based applications
+**Halatech AI**  A modern approach to building intelligent chat-based applications
 
 .. note::
 
    This project is under active development.
 
-Contents
---------
+.. image:: images/overview.svg
+   :width: 600
 
-.. toctree::
+.. Contents
+.. --------
 
-   usage
-   api
+.. .. toctree::
+
+..    usage
+..    api
