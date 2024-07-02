@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Halatech AI'
+copyright = '2024, Guidedlabs'
+author = 'Paul Osinowo'
 
 release = '0.1'
 version = '0.1.0'
